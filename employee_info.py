@@ -89,7 +89,6 @@ def display_main_menu():
         quit()
 
 def main():
-
     while (True):
         display_main_menu()
 
